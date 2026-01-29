@@ -60,6 +60,9 @@
   "event": {
     "city": "Bengaluru",
     "date": "Feb 28 - Mar 1, 2026",
+    "venue": {
+      "name": "TBA"
+    },
     "schedule": {
       "days": [
         {
