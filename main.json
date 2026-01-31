@@ -42,13 +42,13 @@
       "paragraph3": "Don't consider yourself a game dev? No problem - we have tons of online and in-person workshops for you to make your first game!",
       "paragraph4": "This winter, we invite you to learn something new, make something you're really proud of, meet new friends, and go on an incredible adventure together.",
       "closing": "With love,",
-      "signature": "The Campfire Team"
+      "signature": "Tejaji"
     },
     "footer": {
       "tagline": "made with love by Hack Club & Open Sauce",
       "copyright": "© 2026 Hack Club. 501(c)(3) nonprofit (EIN: 81-2908499)",
       "description": "Hack Club is a 501(c)(3) nonprofit and network of 60k+ technical high schoolers. We believe you learn best by building so we're creating community and providing grants so you can make awesome projects. In the past few years, we've partnered with GitHub to run ",
-      "closing": "At Hack Club, students aren't just learning, they're shipping.",
+      "closing": "Made with ♥ by Tejaji-0.",
       "links": [
         { "text": "Hack Club", "href": "https://hackclub.com/" },
         { "text": "Slack", "href": "https://hackclub.com/slack" },
@@ -62,6 +62,7 @@
     "date": "Feb 28 - Mar 1, 2026",
     "venue": {
       "name": "TBA"
+      "link": "https://campfire.hackclub.com/bengaluru"
     },
     "schedule": {
       "days": [
